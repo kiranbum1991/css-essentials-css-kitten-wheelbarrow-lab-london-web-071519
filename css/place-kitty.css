@@ -12,7 +12,7 @@
 #kitty-2 {
   position: relative;
   z-index: 2;
-  top: 300px;
+  top: -300px;
   left: 1000px;
 }
 
