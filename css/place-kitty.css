@@ -38,9 +38,10 @@ div + img {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-/*__write_selector_here__*/ {
-  position: absolute;
+/*__write_selector_here__*/
+kitty[-5]{
+  position: relative;
   z-index: 3;
-  top: 217px;
-  left: 223px;
+  top: -200px;
+  left: -350px;
 }
