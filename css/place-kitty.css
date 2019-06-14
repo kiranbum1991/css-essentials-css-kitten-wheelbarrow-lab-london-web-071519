@@ -22,8 +22,8 @@
 wheelbarrow kitty-5{
   position: absolute;
   z-index: 5;
-  top: 291px;
-  left: 319px;
+  top: -350px;
+  left: 50px;
 }
 
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
