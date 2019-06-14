@@ -20,7 +20,7 @@
 
 /*__write_selector_here__*/
 div * basket{
-  position: absolute;
+  position: relative;
   z-index: 5;
   top: -350px;
   left: 50px;
