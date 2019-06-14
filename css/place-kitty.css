@@ -9,7 +9,7 @@
 
 /* Select the image with id of kitty-2 */
 
-wheelbarrow kitty-2 {
+wheelbarrow.kitty-2 {
   position: relative;
   z-index: 2;
   top: 300px;
