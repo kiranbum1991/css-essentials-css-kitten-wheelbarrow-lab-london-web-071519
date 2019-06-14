@@ -33,7 +33,7 @@ div + img {
   position: relative;
   z-index: 4;
   top: -350px;
-  left: -550px;
+  left: -650px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
