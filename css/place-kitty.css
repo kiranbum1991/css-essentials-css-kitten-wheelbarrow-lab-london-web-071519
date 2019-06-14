@@ -32,7 +32,7 @@ div > img {
 div + img {
   position: relative;
   z-index: 4;
-  top: -350px;
+  top: -450px;
   left: -350px;
 }
 
