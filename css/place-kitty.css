@@ -28,11 +28,12 @@ div > img {
 
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
 
-/*__write_selector_here__*/ {
-  position: absolute;
+/*__write_selector_here__*/
+div + img {
+  position: relative;
   z-index: 4;
-  top: 260px;
-  left: 455px;
+  top: -350px;
+  left: -350px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
