@@ -39,7 +39,7 @@ div ~ img {
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /*__write_selector_here__*/
-#ball + img[alt=kitty-5]{
+img[alt=kitty-5]{
   position: relative;
   z-index: 3;
   top: -200px;
