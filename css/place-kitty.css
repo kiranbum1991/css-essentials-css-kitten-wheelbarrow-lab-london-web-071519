@@ -3,8 +3,8 @@
 kitty-1.relative {
   position: absolute;
   z-index: 1;
-  top: 30px;
-  left: 30px;
+  top: 100px;
+  left: 0px;
 }
 
 /* Select the image with id of kitty-2 */
